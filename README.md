@@ -3,7 +3,7 @@
 - Class Date: Nov 21, 2024
 - Facilitator: @renan-alm
 
-## Class Resources NEW CHANGE
+## Class Resources NEW CHANGE Combined
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
@@ -30,6 +30,8 @@
 - [Git Viz](https://peleke.github.io/git-viz/)
 - [Git Graph Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 - [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
+
+Add change!
 
 #### GitHub Documentation and Help
 
