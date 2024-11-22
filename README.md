@@ -3,7 +3,7 @@
 - Class Date: Nov 21, 2024
 - Facilitator: @renan-alm
 
-## Class Resources
+## Class Resources NEW CHANGE
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
