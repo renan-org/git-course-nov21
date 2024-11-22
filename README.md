@@ -39,7 +39,7 @@
 - [GitHub Enterprise Documentation](https://help.github.com/enterprise/)
 - [Enterprise Support](https://enterprise.github.com/support)
 
-
+Do this instead!
 
 BLABLABLBAL
 #### Git and IDEs Webcasts
